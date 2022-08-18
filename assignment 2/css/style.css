@@ -1,0 +1,16 @@
+.top-container{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png');
+    width: 27vw;
+    height: 100vh;
+}
+
+.middle-container{
+    background-color: #00000080;
+    width: 20vw;
+    height:40vh;
+    border: 7px solid #48ee59;
+    color: aliceblue;
+    padding: 25px 0 25px 25px;
+    margin: -70vh auto auto 2vw;
+    font-family: 'Bree Serif', serif;
+}

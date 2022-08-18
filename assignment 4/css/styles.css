@@ -1,0 +1,125 @@
+.background{
+    border: 1px solid black;
+    width: 900px;
+    height: 700px;
+    background-image: url('https://images.hdqwalls.com/download/travel-hd-2560x1440.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+.booki{
+    font-weight: bold;
+}
+.header{
+    height: 0px;
+    width: 898px;
+    border: 1px solid black;
+    padding: auto auto 0px 5px;
+}
+
+.head-list{
+    list-style-type: none;
+    
+}
+
+.travel-bag{
+    height: 20px;
+    width: 15px;
+}
+ol li{display: inline-block;
+ 
+   
+}
+.my{color: white;}
+a{text-decoration: none;
+color: white;
+padding: 10px;}
+
+.flag{
+    width: 20px;
+    height: 15px;
+padding-left:15px;}
+
+.radio{color: white;font-family:Arial, Helvetica, sans-serif;padding-top: 5px;}
+
+.usd{
+    color: white;
+    padding-left: 200px;
+}
+.profile{
+    height: 15px;
+    width: 15px;
+    padding-top: 7px;
+    padding-left: 20px;
+    padding-right: 5px;
+}
+.middle{
+    width: 350px;
+    height: 150px;
+    border: 1px gray;
+    margin-top: 170px;
+}
+h1,h4{color: white;
+   font-family: Arial, Helvetica, sans-serif;}
+
+.search{
+    background-color: #EF5B0C;
+    color: whitesmoke;
+    text-align: center;
+    border-color: #EF5B0C;
+    
+}
+.bottom1-container{
+    border: 1px solid whitesmoke;
+    width: 898px;
+    height: 200px;
+    margin-top: 250px;
+    
+    
+}
+
+.bottom2-container{
+    width: 898px;
+    height: 16px;
+    background-color: #0078AA;
+}
+
+.box1{margin-left: -2.9px;
+    border: 1px solid whitesmoke;
+    height: 200px;
+    width: 225px;
+    background-image: url('https://img.freepik.com/premium-vector/download-our-app-advertising-banner-phone-mockup-app-mobile-ui-ux-design-vector-illustration_476325-220.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.box2{
+    margin: -202px auto auto 224px;
+    border: 1px solid whitesmoke;
+    height: 200px;
+    width: 225px;
+    background-image: url('https://pbs.twimg.com/media/DYj1AXtV4AEsChw.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+.box3{
+    margin: -202px auto auto 449.5px;
+    border: 1px solid whitesmoke;
+    height: 200px;
+    width: 225px;
+    background-image: url('https://images.ctfassets.net/fi0zmnwlsnja/78qJ5A5gX4FE7eherD9M3U/f6e85906e44aaac1846eee2395a58c02/02-Stevie-Gold-Award.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+.box4{
+    margin: -202px auto auto 673px;
+    border: 1px solid whitesmoke;
+    height: 200px;
+    width: 225px;
+    background-image: url('https://www.travelperk.com/wp-content/uploads/Guides_Complete-guide-for-Travel-Managers.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}

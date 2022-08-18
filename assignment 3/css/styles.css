@@ -1,0 +1,49 @@
+.top-container{
+    height: 700px;
+    width: 400px;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    border: 1px solid;
+    background-size: cover;
+    margin: auto auto auto 440px;
+}
+
+.bottom-container{
+    border: 1px solid #171f46;
+    height: 240px;
+    width: 365px;
+    margin: -200px auto auto 440px;
+    padding-left: 35px;
+    background-color: #ffffff;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+h1{
+    color: #5752ab;
+    font-family: 'Bree Serif', serif;
+   
+}
+
+p{
+    color: #323f4b;
+    font-family: 'Roboto', sans-serif;
+}
+.learn-btn{
+    border-radius: 10px;
+    padding: 10px 25px;
+    margin-left: 23px;
+    background-color: #ffffff;
+    color: #171f46;
+    border-style: solid;
+    border-color: #d7dfe9;
+
+}
+
+.save-btn{
+    border-radius: 10px;
+    padding: 10px 25px;
+    margin-left: 25px;
+    background-color: #5752ab;
+    color: #ffffff;
+    border-color: #5752ab;
+    border-style: solid;
+}
