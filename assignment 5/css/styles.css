@@ -1,0 +1,320 @@
+body{margin-left: 30px;}
+
+.top-container{
+    width: 1200px;
+    height: 330px;
+    border:1px solid black;
+    text-align: center;
+    background-image: url('https://blog.eduonix.com/wp-content/uploads/2021/05/Game-developer-gaming-game-designing-game-development-scaled-e1620913877686.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+color: white;background-position: top;}
+.welcome{
+    color: #277BC0;
+}
+.lorem{
+    color: grey;
+   
+}
+
+
+.top-header{
+    height: 50px;
+    width: 1200px;
+    border: 1px solid white;
+}
+li{ padding-left: 10px;
+    display: inline-block;
+    margin-top: -22px;
+}
+.page1{margin-left: -50px; 
+    padding-right: 400px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: lighter;}
+a{
+    text-decoration: none;
+    color: white;
+}
+.get-btn{
+    padding: 10px 25px ;
+    border-radius: 25px;
+    color: #277BC0;margin-top: 30px;
+    background-color:white;
+    border-style: solid;
+    border-color: #277BC0;
+    cursor: pointer;
+}
+
+.container-2{
+    height: 250px;
+    width: 1200px;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+.read-btn{
+    padding: 10px 25px ;
+    border-radius: 25px;
+    color: #277BC0;margin-top: 30px;
+    background-color:white;
+    border-style: solid;
+    border-color: #277BC0;
+    cursor: pointer;
+}
+
+.container-3{
+    height: 250px;
+    width: 1200px;
+    border: 1px solid black;
+    text-align: center;display: flex;
+}
+.story{
+    width: 400px;
+    height: 250px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: #277BC0;
+    color: white;
+}
+.wait{margin-top: 30px;
+    height: 30px;
+    height: 30px;
+}
+
+.mission{
+    width: 400px;
+    height: 250px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.vision{
+    width: 400px;
+    height: 250px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: #277BC0;
+    color: white;
+}
+
+.container-4{
+    height: 450px;
+    width: 1200px;
+    border: 1px solid black;
+    text-align: center;
+    text-align: center;
+}
+.service{
+    color: #277BC0;
+    
+}
+.ser-p{
+    margin:35px auto 45px auto;
+}
+
+.portfolio{color: #277BC0;}
+
+
+.tab tr td{
+    width: 350px;
+    height: 70px;
+    border: 1px solid;
+    text-align: center;
+    background-color: #277BC0;
+    color: white;
+}
+.tab{
+    margin-left: 55px;
+}
+
+.container-5{
+    height: 250px;
+    width: 1200px;
+    border: 1px solid black;
+    border-bottom-color: white;
+    text-align: center;
+    background-color: #277BC0;
+}
+
+.calender{
+    height: 50px;
+    width: 50px;
+}
+.check{
+    height: 50px;
+    width: 50px;
+}
+.teams{
+    height: 50px;
+    width: 50px;
+}
+.health{
+    height: 50px;
+    width: 50px;
+}
+
+.color-table{
+    width: 700px;
+    color: white;
+    padding-top: 45px;
+    padding-left: 50px;
+    padding-right: 20px;
+    margin-left: 240px;
+}
+.container-6{
+    height: 270px;
+    width: 1200px;
+    border: 1px solid black;
+    border-bottom-color: white;
+    text-align: center;
+    text-align: center;
+}
+
+hr{
+    border-width: 5px;
+    width: 5%;
+    border-color: #277BC0;
+    border-top: 0px;
+}
+
+.container-7{
+    height: 200px;
+    width: 1200px;
+    border: 1px solid black;
+    border-bottom-color: white;
+    border-top-color: white;
+    text-align: center;
+    text-align: center;
+    display: flex;
+}
+.tab1{
+    height: 200px;
+    width: 300px;
+    border:1px solid black;
+    margin-left: 135px;
+    background-image: url('https://staticc.sportskeeda.com/editor/2022/05/98565-16530537335071-1920.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tab2{
+    height: 200px;
+    width: 300px;
+    border:1px solid black;
+    background-image: url('https://i.insider.com/5c86afbd26289842a23752b2?width=1200&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tab3{
+    height: 200px;
+    width: 300px;
+    border:1px solid black;
+    background-image: url('https://5.imimg.com/data5/OL/IC/XL/SELLER-38219723/travel-swimming-waterproof-mobile-phone-bags-dry-pouch-cases-cover-500x500.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-8{
+    height: 300px;
+    width: 1200px;
+    border: 1px solid black;
+    border-top-color: white;
+    text-align: center;
+    text-align: center;
+    display: flex;
+}
+.tab4{
+    height: 200px;
+    width: 300px;
+    border:1px solid black;
+    margin-left: 135px;
+    background-image: url('https://media.istockphoto.com/photos/waterproof-smartphone-picture-id470426078?k=20&m=470426078&s=612x612&w=0&h=rGe3fw2wX42kUNIKGymxERJZ8-Cbz8cGgU70eTg0Ckw=');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tab5{
+    height: 200px;
+    width: 300px;
+    border:1px solid black;
+    background-image: url('https://images5.alphacoders.com/105/1050665.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tab6{
+    height: 200px;
+    width: 300px;
+    border:1px solid black;
+    background-image: url('https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-iiil0cn21ludapnv2i1v17hgq6-20191112101447.Medi.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ol.all a{
+color: #277BC0;
+padding-inline: 15px;
+font-weight: bold;
+font-family: serif; 
+  
+}
+.all{
+    margin-top: 85px;
+}
+
+.port-d{margin-top: 45px;}
+
+.container-9{
+    height: 250px;
+    width: 1200px;
+    border: 1px solid black;
+    border-bottom-color: white;
+    text-align: center;
+    background-color: #277BC0;
+    position: relative;
+    display: flex;
+}
+
+.author{
+    border: 1px solid black;
+    height: 150px;
+    width:130px ;
+    border-top-left-radius:55px ;
+    border-bottom-left-radius:55px;
+    margin: 50px auto 50px 200px;
+    background-image: url('https://pbs.twimg.com/profile_images/1436006192313081863/imAJLDjg_400x400.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    display: flex;
+}
+
+.name{
+    margin: -190px auto auto 350px ;
+    color: whitesmoke;
+    font-family: 'DynaPuff', cursive;
+
+}
+.contact {
+    padding: 10px 20px 10px 20px ;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #277BC0;
+    cursor: pointer;
+    margin:15px auto auto 340px;
+}
+.ctd{
+    color: #277BC0;
+}
+.copy-right{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+.author-des{
+    position: absolute;
+    top: 80px;
+    left: 560px;
+    color: white;
+}
