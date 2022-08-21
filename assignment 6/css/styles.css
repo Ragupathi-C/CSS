@@ -1,0 +1,173 @@
+body{background-color:#FFCB42;
+}
+.section{
+    height: 1480px;
+    width: 1200px;
+   
+    margin:20px auto 20px 20px;
+}
+
+.container1{
+    height: 500px;
+    width: 1200px;
+   
+    background-image: url('https://gjbwebtech.com/wp-content/uploads/2018/01/responsive-design-blog.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    height: 80px;
+    width: 1200px;
+    border: 1px solid black;
+    background-color: black;
+}
+.head-list li{
+    color: white;
+    display: inline-block;
+    padding-inline: 15px;
+}
+ol{
+    margin-top: 35px;
+    margin-left: 700px;
+}
+.c1-center{
+    text-align: center;
+    color: white;
+   margin-top: 100px;
+}
+
+.read-btn{
+    padding: 13px;border-style: solid;border-color: #FFCB42;
+    background-color: #FFCB42;
+    margin: 110px auto auto 550px;
+    border-radius: 4px;
+}
+.container2{
+    height: 550px;
+    width: 1200px;
+    border: 1px solid black;
+    background-color: #2C3333;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: none;
+    
+}
+.c2lorem{
+    height: 150px;
+    width: 1200px;
+   
+    background-color: #2C3333;
+}
+.c2lorem-h1{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+.c2lorem-p{
+    text-align: center;
+    color: #FFCB42;
+}
+.tab1{
+    height: 350px;
+    width: 250px;
+    
+    position: absolute;
+    top: 650px;
+    left: 210px;
+}
+.tab1div{
+    height: 150px;
+    width: 250px;
+  
+    background-image: url('https://fsa2-assets.imgix.net/assets/Software-Engineering-Job-Types.jpg?auto=format&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=630&ixlib=php-3.3.0&q=82&w=1200');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tab2{
+    height: 350px;
+    width: 250px;
+    
+    position: absolute;
+    top: 650px;
+    left: 490px;
+}
+.tab2div{
+    height: 150px;
+    width: 250px;
+
+    background-image: url('https://www.itstaff.com/wp-content/uploads/2015/08/Software-Engineers-and-Developers.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tab3{
+    height: 350px;
+    width: 250px;
+
+    position: absolute;
+    top: 650px;
+    left: 770px;
+}
+.tab3div{
+    height: 150px;
+    width: 250px;
+    
+    background-image: url('https://jobs.intel.com/Views/Client/d1fbe68e-ee7a-4d07-ba71-10c3e62672ab/images/woman-men-collaborating-16x9.jpg.rendition.intel.web.720.405.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rea-btn{
+    padding: 7px;
+    border-style: solid;
+    border-color: #FFCB42;
+    background-color: #FFCB42;
+    margin-left: 10px;
+    border-radius: 5px;
+    
+}
+h1,p{
+    color: white;
+}
+.container3{
+    height: 420px;
+    width: 1200px;
+    border: 1px solid #2C3333;
+    background-color: #2C3333;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    
+}
+.bottom-container{
+    height: 350px;
+    width: 1000px;
+    border-top: none;
+    position: absolute;
+    left: 118px;
+    background-image: url('https://www.wallstwatchdog.com/wp-content/uploads/2017/06/Discussion-of-partnership-in-cafe.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    
+
+}
+.get-btn{
+    border-radius: 5px;
+    padding: 9px;
+    border-style: solid;
+    border-color: #FFCB42;
+    background-color: #FFCB42;
+    margin-left: 10px;
+    position: inherit;
+    left: 770px;
+    top: 155px;
+}
+.are{
+    position: absolute;
+    text-align: justify;
+    width: 28%;
+    top: 120px;
+    left: 50px;
+    color: #FFCB42;
+    
+}
