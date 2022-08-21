@@ -39,8 +39,9 @@ ol{
 .read-btn{
     padding: 13px;border-style: solid;border-color: #FFCB42;
     background-color: #FFCB42;
-    margin: 110px auto auto 550px;
+    margin: 130px auto auto 550px;
     border-radius: 4px;
+    cursor: pointer;
 }
 .container2{
     height: 550px;
@@ -123,6 +124,7 @@ ol{
     background-color: #FFCB42;
     margin-left: 10px;
     border-radius: 5px;
+    cursor: pointer;
     
 }
 h1,p{
@@ -144,10 +146,10 @@ h1,p{
     border-top: none;
     position: absolute;
     left: 118px;
-    background-image: url('https://www.wallstwatchdog.com/wp-content/uploads/2017/06/Discussion-of-partnership-in-cafe.jpg');
+    background-image: url('https://media-exp1.licdn.com/dms/image/C4E12AQHv-Tj1v4vvMw/article-cover_image-shrink_600_2000/0/1573004540218?e=2147483647&v=beta&t=Yp5bYemlCV9ZoFpv81-wO8zvmFr1JU551h0LhhIUnAE');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top;
+    background-position: center;
     
 
 }
@@ -160,14 +162,15 @@ h1,p{
     margin-left: 10px;
     position: inherit;
     left: 770px;
-    top: 155px;
+    top: 135px;
+    cursor: pointer;
 }
 .are{
     position: absolute;
     text-align: justify;
     width: 28%;
-    top: 120px;
+    top: 90px;
     left: 50px;
-    color: #FFCB42;
+    color: white;
     
 }
