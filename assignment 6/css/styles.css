@@ -164,6 +164,7 @@ h1,p{
     left: 770px;
     top: 135px;
     cursor: pointer;
+    outline:;
 }
 .are{
     position: absolute;
@@ -172,5 +173,5 @@ h1,p{
     top: 90px;
     left: 50px;
     color: white;
-    
+        
 }
